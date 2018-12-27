@@ -1,0 +1,264 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 720594497,
+      "message": {
+        "message_id": 93,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545934153,
+        "text": "f"
+      }
+    },
+    {
+      "update_id": 720594498,
+      "message": {
+        "message_id": 95,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545934471,
+        "text": "question"
+      }
+    },
+    {
+      "update_id": 720594499,
+      "message": {
+        "message_id": 96,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545934475,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 720594500,
+      "message": {
+        "message_id": 100,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935041,
+        "text": "/id",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 3,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 720594501,
+      "message": {
+        "message_id": 104,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935186,
+        "text": "clear"
+      }
+    },
+    {
+      "update_id": 720594502,
+      "message": {
+        "message_id": 123,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935424,
+        "text": "stop"
+      }
+    },
+    {
+      "update_id": 720594503,
+      "message": {
+        "message_id": 128,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935495,
+        "text": "stop"
+      }
+    },
+    {
+      "update_id": 720594504,
+      "message": {
+        "message_id": 129,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935502,
+        "text": "d"
+      }
+    },
+    {
+      "update_id": 720594505,
+      "message": {
+        "message_id": 130,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935508,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 720594506,
+      "message": {
+        "message_id": 131,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935513,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 720594507,
+      "message": {
+        "message_id": 156,
+        "from": {
+          "id": 441814052,
+          "is_bot": false,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 441814052,
+          "first_name": "Anton",
+          "username": "V1S10US",
+          "type": "private"
+        },
+        "date": 1545935666,
+        "text": "stop"
+      }
+    }
+  ]
+}
